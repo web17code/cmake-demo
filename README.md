@@ -1,4 +1,4 @@
-CMake 入门实战
+CMake 入门实战 fork from `https://github.com/wzpan/cmake-demo`, 仅用来保存词学习资料
 =====
 
 > 本仓库是 [CMake 入门实战](https://hahack.com/codes/cmake) 的源代码。
